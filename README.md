@@ -14,4 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-My name is YouKwhan and I'm a Applied Math and Statistics and Economics student from Stony Brook University, who is aspireing to be a software engineer.
+My name is YouKwhan and I'm a recent graduate from Stony Brook University currently located in NY. I majored in Applied Mathemtatics and Statistics and Economics during my undergrad, but now I'm focusing my time on building my software developer skills. 
+
+- 🔭 I have experience with Python, Java, as well as C, and I am currently learning HTML and CSS for some frontend dev. 
+
+- 🌱 Outside of my career, I love spending my time playing video games, hiking, weightlifting, watching anime, and learning new things! 
+
+💬 Reach me by email or LinkedIn! [Youkwhan@gmail.com](Youkwhan@gmail.com) | [www.linkedin.com/in/youkwhankim](https://www.linkedin.com/in/you-kwhan-kim-75826a195)
