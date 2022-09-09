@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **Youkwhan/Youkwhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,11 +12,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+<p align="center">
+<a href="#"><img width="50%" height="auto" src="https://raw.githubusercontent.com/aayushgoyal/aayushgoyal/master/github.gif" height="175px"/></a></p>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50" height="50"/>, I'm You-Kwhan</h1>
 <h3 align="center">Software Engineer & New Grad @Stony Brook</h3>
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=youkwhan&label=Profile%20views&color=0e75b6&style=flat" alt="youkwhan" /> </p>
 
 
 ## 🙋‍♂️ A bit about me:
@@ -27,22 +27,29 @@ Here are some ideas to get you started:
 - 📍 Located In: New York City
 - ⚡ Personal interests: **🏋️‍🧑‍💻🕹️📚**
 - 📫 Contact me: **Youkwhan@gmail.com**
-- 💼 Check out my **<a align="center" href="www.linkedin.com/in/you-kwhan-kim-75826a195" target="_blank"> LinkedIn! </a>**
+
+## Connect with me:
+<p align="left">
+<a href="https://linkedin.com/in/you-kwhan-kim-75826a195" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="you-kwhan-kim-75826a195" height="30" width="40" /></a>
+</p>
+<br/>
 
 ## 🚀 Skills and Technologies:
-
-<p align="center" > 
-   
-    <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>
-    <img src="https://img.icons8.com/color/48/000000/javascript.png"/>
-    <img src="https://img.icons8.com/color/48/000000/html-5.png"/>
-    <img src="https://img.icons8.com/color/48/000000/css3.png"/>
-    <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
-    <img src="https://img.icons8.com/color/48/000000/python.png"/>
-    <img src="https://img.icons8.com/color/48/000000/firebase.png"/>
-    <img src="https://img.icons8.com/color/48/000000/git.png"/>
-    <img src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.79614a5f61617ba49a0891494521226b.svg" width="50" height="50"/>
-    <img src="https://nodejs.org/static/images/logos/nodejs-new-pantone-white.svg" width="50" height="50"/>
-
+<p align="left"> 
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
+<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
+<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
+<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 </p>
+<br/>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=youkwhan&show_icons=true&locale=en&layout=compact" alt="youkwhan" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=youkwhan&show_icons=true&locale=en" alt="youkwhan" /></p>
+
 
