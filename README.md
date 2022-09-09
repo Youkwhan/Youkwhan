@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 ## 🙋‍♂️ A bit about me:
 
 - 👊 Currently Looking for New Grad Position
-- 📍 Located In: New York City
+- 📍 Located In: New York
 - ⚡ Personal interests: **🏋️‍🧑‍💻🕹️📚**
 - 📫 Contact me: **Youkwhan@gmail.com**
 
