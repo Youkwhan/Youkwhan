@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <a href="#"><img width="50%" height="auto" src="https://raw.githubusercontent.com/aayushgoyal/aayushgoyal/master/github.gif" height="175px"/></a></p>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50" height="50"/>, I'm You-Kwhan</h1>
-<h3 align="center">Software Engineer & New Grad @Stony Brook</h3>
+<h3 align="center">Software Engineer & New Grad from Stony Brook University</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=youkwhan&label=Profile%20views&color=0e75b6&style=flat" alt="youkwhan" /> </p>
 
