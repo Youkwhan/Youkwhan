@@ -27,6 +27,7 @@ Here are some ideas to get you started:
 - 📍 Currently Located In: New York
 - ⚡ Personal interests: **🏋️‍🧑‍💻🕹️📚**
 - 📫 Contact me: **Youkwhan@gmail.com**
+- Personal Site: <a href="https://youkwhan.github.io/personal-site/">Website</a>
 
 ## Connect with me:
 <p align="left">
