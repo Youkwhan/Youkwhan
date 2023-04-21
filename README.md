@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 ## 🙋‍♂️ A bit about me:
 
-- 👊 Currently Looking for New Grad Position
+- 👊 Currently Looking for Front-end Position
 - 📍 Currently Located In: New York
 - ⚡ Personal interests: **🏋️‍🧑‍💻🕹️📚**
 - 📫 Contact me: **Youkwhan@gmail.com**
