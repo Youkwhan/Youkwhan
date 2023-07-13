@@ -1,6 +1,6 @@
 # <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50" height="50"/> Hi, I'm You-Kwhan Kim
 
-#### <a href="https://devyouk.netlify.app" target="_blank">Portfolio</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/Youkwhan/" target="_blank">LinkedIn</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto: Youkwhan@gmail.com" target="_blank">Youkwhan@gmail.com</a>
+#### <a href="https://youkwhankim.netlify.app/" target="_blank">Portfolio</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/Youkwhan/" target="_blank">LinkedIn</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto: Youkwhan@gmail.com" target="_blank">Youkwhan@gmail.com</a>
 
 ## 🙋‍♂️ A bit about me:
 I'm a front-end developer based in New York. My passion is delivering engaging, memorable, and meaningful user experiences. Thriving in the front end, I enjoy working at the intersection of art and functionality.
