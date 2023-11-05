@@ -10,5 +10,3 @@ When I get a break from coding, you can often find me practicing the piano or go
 ### 🚀 Skills and Technologies:
 <img align="center" width="400" style="margin-bottom: 100px" src="https://skills.thijs.gg/icons?i=js,html,css,react,py,r&theme=dark">
 <img align="center" width="400" src="https://skills.thijs.gg/icons?i=firebase,git,github,figma,vite,netlify&&theme=dark">
- 
-<img width="400px" src="https://github-readme-stats.vercel.app/api?username=youkwhan&show_icons=true&locale=en&theme=transparent" alt="youkwhan">
