@@ -8,5 +8,16 @@ I'm a full-stack developer based in New York. My passion is delivering engaging,
 When I get a break from coding, you can often find me practicing the piano, going to the gym, working with 3d rendering or spending time with my friends, playing video games. 👽 
 
 ### 🚀 Skills and Technologies:
-<img align="center" width="400" style="margin-bottom: 100px" src="https://skills.thijs.gg/icons?i=js,html,css,react,py,r&theme=dark">
-<img align="center" width="400" src="https://skills.thijs.gg/icons?i=firebase,git,github,figma,vite,netlify&&theme=dark">
+#### Frontend:
+- HTML, CSS, JavaScript
+- Node.js, React.js, Angular.js
+- TypeScript, Tailwind CSS
+#### Backend:
+- Python, Java, Perl
+- MySQL, Oracle SQL
+- Spring Boot
+#### Scripting:
+- Shell (Korn/Linux)
+#### Tools:
+- Firebase, TOAD, SnapLogic
+- AWS
