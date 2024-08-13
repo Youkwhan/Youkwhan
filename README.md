@@ -12,6 +12,7 @@ When I get a break from coding, you can often find me practicing the piano, goin
 - HTML, CSS, JavaScript
 - Node.js, React.js, Angular.js
 - TypeScript, Tailwind CSS
+- Three.js
 #### Backend:
 - Python, Java, Perl
 - MySQL, Oracle SQL
