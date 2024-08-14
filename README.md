@@ -14,7 +14,7 @@ When I get a break from coding, you can often find me practicing the piano, goin
 - TypeScript, Tailwind CSS
 - Three.js
 #### Backend:
-- Python, Java, Perl
+- Python, Java, Perl, R
 - MySQL, Oracle SQL
 - Spring Boot
 #### Scripting:
