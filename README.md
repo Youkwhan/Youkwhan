@@ -22,3 +22,7 @@ When I get a break from coding, you can often find me practicing the piano, goin
 #### Tools:
 - Firebase, TOAD, SnapLogic
 - AWS
+#### Unit Testing
+- JUnit
+- Karma
+- Jasmine
