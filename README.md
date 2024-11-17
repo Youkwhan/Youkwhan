@@ -5,24 +5,23 @@
 ## 🙋‍♂️ A bit about me:
 I'm a full-stack developer based in New York. My passion is delivering engaging, memorable, and meaningful user experiences. Thriving in the front end and backend, I enjoy working at the intersection of art and functionality.
 
-When I get a break from coding, you can often find me practicing the piano, going to the gym, working with 3d rendering or spending time with my friends, playing video games. 👽 
+Outside of work, you can often find me playing the piano, reading, indie game developement, creating interactive 3D rendering or spending time with my friends. 👽 
 
 ### 🚀 Skills and Technologies:
 #### Frontend:
 - HTML, CSS, JavaScript
-- Node.js, React.js, Angular.js
+- Angular.js, React.js, Node.js
 - TypeScript, Tailwind CSS
 - Three.js
 #### Backend:
 - Python, Java, Perl, R
 - MySQL, Oracle SQL
 - Spring Boot
-#### Scripting:
-- Shell (Korn/Linux)
+#### Game development:
+- Godot (GDScript)
 #### Tools:
-- Firebase, TOAD, SnapLogic
-- AWS
+- AWS, Snaplogic
+- Firebase, TOAD
 #### Unit Testing
 - JUnit
-- Karma
-- Jasmine
+
