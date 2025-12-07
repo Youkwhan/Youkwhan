@@ -5,8 +5,6 @@
 ## 🙋‍♂️ A bit about me:
 I'm a full-stack developer based in New York. My passion is delivering engaging, memorable, and meaningful user experiences. Thriving in the frontend and backend, I enjoy working at the intersection of art and functionality.
 
-Outside of work, you can often find me playing the piano, reading, creating interactive 3D renderings, working on indie game development, or spending time with friends. 👽 
-
 ### 🚀 Skills and Technologies:
 #### 🖥️ Frontend:
 - HTML, CSS, JavaScript
@@ -19,7 +17,7 @@ Outside of work, you can often find me playing the piano, reading, creating inte
 - Spring Boot
 #### 🛠️ Tools:
 - AWS, Snaplogic
-- Firebase, TOAD
+- Firebase, Oracle (TOAD)
 #### 🧪 Unit Testing
 - JUnit
 #### 🎮 Game dev:
